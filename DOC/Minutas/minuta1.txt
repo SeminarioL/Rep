@@ -1,0 +1,13 @@
+minuta 1 reunion grupo
+
+Nos reunimos los 4, el dia 26/08/2016, a definir el género del juego y plantear una historia.
+
+Juego Arcade
+
+-Pelea 2D, nosotros mismos como protagonistas.
+
+-Objetivo: Vencer a los profesores y aprobar las materias.
+
+-Historia: Grupo de estudiantes de la UNLá combaten contra sus profesores. Cada victoria es un paso, más cerca para recibirse.
+
+-Niveles: Ingreso/Programación/Organización de Computadoras.
